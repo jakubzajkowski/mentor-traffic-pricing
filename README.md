@@ -126,5 +126,5 @@ also. I made more layouts with scss i think this is stunning technology.
 
 ## Author
 
-#####Jakub Zajkowski
+####Jakub Zajkowski
 [Github](https://github.com/jakubzajkowski)
