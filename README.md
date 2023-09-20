@@ -20,11 +20,11 @@ Users should be able to:
 ### Built with
 
 - HTML5 
-- 👨‍🎨SCSS
+- SCSS
 - Flexbox
-- 🧀JS
-- ⚛[React](https://reactjs.org/) - JS library
-- 📦Webpack
+- 🧀 JS
+- ⚛ [React](https://reactjs.org/) - JS library
+- 📦 Webpack
 
 
 ### What I learned
@@ -117,14 +117,10 @@ const Container=(props)=>{
 ```
 
 
-### Continued development
 
-In the future i would focus on styled components in react and how to use it perfect
-also. I made more layouts with scss i think this is stunning technology.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-####Jakub Zajkowski
+### Jakub Zajkowski
 [Github](https://github.com/jakubzajkowski)
